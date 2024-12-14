@@ -1,0 +1,8 @@
+tasks = 12
+print(tasks)
+time = 1.5
+print(time)
+name = 'Python'
+print (name)
+time_task = time/task
+print(time_task)
